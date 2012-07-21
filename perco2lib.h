@@ -43,7 +43,7 @@
 // hbonds[][].
 //
 // Each of these routines is tested in perco2.c.  So, please see perco2.c
-// for exmaples of how to use these routines.
+// for examples of how to use these routines.
 //
 // ================================================================
 // John Kerl
