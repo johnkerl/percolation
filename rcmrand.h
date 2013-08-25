@@ -23,9 +23,6 @@
 // John Kerl
 // kerl.john.r@gmail.com
 // 2008-02-02
-//
-// This code is released under the terms of the GNU GPL.  Please see
-// COPYING.txt in the same directory as this file.
 // ================================================================
 
 #ifndef RCMRAND_H

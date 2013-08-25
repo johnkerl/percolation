@@ -11,9 +11,6 @@
 // John Kerl
 // kerl.john.r@gmail.com
 // 2008-04-29
-//
-// This code is released under the terms of the GNU GPL.  Please see
-// COPYING.txt in the same directory as this file.
 // ================================================================
 
 #ifndef PERCO2PLOT_H

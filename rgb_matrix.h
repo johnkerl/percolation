@@ -10,9 +10,6 @@
 // John Kerl
 // kerl.john.r@gmail.com
 // 2008-10-18
-//
-// This code is released under the terms of the GNU GPL.  Please see
-// COPYING.txt in the same directory as this file.
 // ================================================================
 
 #ifndef RGB_MATRIX_H
